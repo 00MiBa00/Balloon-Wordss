@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "941854665878",
+    "project_id": "balloony-letters",
+    "storage_bucket": "balloony-letters.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941854665878:ios:8359c1cb6b56b43c4666b7",
+        "android_client_info": {
+          "package_name": "com.morganrose.gameballoonyletters"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI9pDPcsw1Nlzmjuk2_TTuH6NIxVwH7g8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
