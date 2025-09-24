@@ -3485,8 +3485,8 @@ MonoBehaviour:
   - {r: 1, g: 0.8078432, b: 0.039215688, a: 1}
   - {r: 1, g: 0.10634623, b: 0.039215684, a: 1}
   _nextOrRestartBtnSprites:
-  - {fileID: 21300000, guid: 316012bf5d7714d33b3d80780a270123, type: 3}
-  - {fileID: 21300000, guid: da4899b1ca1e242249c05a9c891255ec, type: 3}
+  - {fileID: 21300000, guid: 3675e696c1cbd446e88706f28cbe2997, type: 3}
+  - {fileID: 21300000, guid: b88a84c0b93d54f438800cbd7988017f, type: 3}
   _timerColors:
   - {r: 0, g: 1, b: 0.04619026, a: 1}
   - {r: 1, g: 0.105882354, b: 0.039215688, a: 1}

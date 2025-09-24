@@ -323,6 +323,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: '[CanvasHolder]'
       objectReference: {fileID: 0}
+    - target: {fileID: 8007527105183578331, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8185618229493488608, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
       propertyPath: m_Sprite
       value: 
